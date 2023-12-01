@@ -10,7 +10,7 @@ I'm a software engineer working with Microsoft .NET and Azure. You can read more
 -->
 
 - 💬 Ask me about anything related to software engineering
-- 📫 How to reach me: [https://www.linkedin.com/in/piotrdela]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piotrdela)
 - 😄 Pronouns: he/him
 
 <!---
