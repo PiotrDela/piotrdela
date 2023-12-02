@@ -9,9 +9,9 @@ I'm a software engineer working with Microsoft .NET and Azure. You can read more
 - 🤔 I’m looking for help with ...
 -->
 
+- 🌱 I’m currently learning [MassTransit](https://masstransit.io)
 - 💬 Ask me about anything related to software engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piotrdela)
-- 😄 Pronouns: he/him
 
 <!---
 - ⚡ Fun fact: ...
